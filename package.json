@@ -1,0 +1,9 @@
+{
+  "name": "novel-api",
+  "version": "1.0.0",
+  "description": "API to fetch novels from Notion",
+  "main": "api/novels.js",
+  "dependencies": {
+    "@notionhq/client": "^2.2.0"
+  }
+}
